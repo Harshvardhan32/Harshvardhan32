@@ -55,16 +55,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ishan-grover-1079a324a/" target="_blank">
+  <a href="https://www.linkedin.com/in/harshvardhan-204532257" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/Ishangrover2004" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="" alt="twitter logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/CSB_22B0121151" target="_blank">
+  <a href="https://www.hackerrank.com/profile/CSB_22B0121186" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="" alt="hackerrank logo"  />
   </a>
-  <a href="groverishan2004@gmail.com" target="_blank">
+  <a href="harshvardhanmaurya73073@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="" alt="gmail logo"  />
   </a>
 </div>
