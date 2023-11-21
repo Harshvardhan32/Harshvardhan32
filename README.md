@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Harshvardhan</h1>
-<h3>I'm a Btech CS student with a passion towards Data Science and Web Development.</h3>
+<p>I'm a Btech CS student with a passion towards Data Science and Web Development.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
