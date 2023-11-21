@@ -9,8 +9,9 @@
 <br clear="both">
 
 <div align="left">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=IshanGrover2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-<!--   <img src="https://streak-stats.demolab.com?user=IshanGrover2004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=harshvardhan32&theme=react&show_icons=true&hide_border=false&count_private=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshvardhan32&theme=react&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhan32&theme=react&show_icons=true&hide_border=false&layout=compact" height="150" alt="stats graph" />
 </div>
 
 ###
