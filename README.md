@@ -1,4 +1,4 @@
-Hey 👋 I'm Harshvardhan <br>
+<h1>Hey 👋 I'm Harshvardhan</h1> <br> <br>
 I'm a Btech CS student with a passion towards Data Science and Web Development.
 
 <!---
