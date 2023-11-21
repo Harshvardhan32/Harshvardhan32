@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 I'm Ishan Grover</h1>
+<h1 align="left">Hey 👋 I'm Harshvardhan </h1>
 
 ###
 
-<p align="left">I'm a Btech CS student with a passion towards programming.</p>
+<p align="left">I'm a Btech CS student with a passion towards Data Science and Web Development.</p>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">Technology used:</h2>
+<h2 align="left">Tools and Technology used:</h2>
 
 ###
 
