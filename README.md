@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Btech CS student with a passion towards Data Science and Web Development.</p>
+<p align="left">I'm a B.Tech CS student with a passion towards Data Science and Web Development.</p>
 
 ###
 
