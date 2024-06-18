@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">Tools and Technology used:</h2>
+<h2 align="left">Familiar with Tools and Technology:</h2>
 
 ###
 
