@@ -71,3 +71,9 @@
 </div>
 
 ###
+
+<h2 align="left">Resume: </h2>
+
+###
+
+[![View Resume](https://img.shields.io/badge/View%20Resume-Click%20Here-brightgreen)](https://github.com/Harshvardhan32/Harshvardhan32/blob/main/resume.pdf)
