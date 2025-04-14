@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 I'm Harshvardhan </h1>
+<h1 align="left">👋 Hi, I'm Harshvardhan!</h1>
 
 ###
 
-<p align="left">I'm a B.Tech CS student with a passion towards Data Science and Web Development.</p>
+<p align="left">I'm a passionate Full-Stack Developer with a strong foundation in Java, C, Python, and the MERN stack. I enjoy building scalable web applications and have hands-on experience with technologies like React, Node.js, Express.js, and MongoDB. I'm also proficient in data structures and algorithms, which I continually refine through platforms like LeetCode and CodeChef.</p>
 
 ###
 
