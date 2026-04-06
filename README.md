@@ -85,7 +85,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/harshvardhan-204532257" target="_blank">
+  <a href="https://www.linkedin.com/in/harshvardhan32/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="" alt="linkedin logo"  />
   </a>
   <a href="mailto:harshvardhanmaurya73073@gmail.com" target="_blank">
